@@ -1,12 +1,5 @@
 {
-  "divisions": [
-        {
-            "division_code": "SE",
-            "name": "Software Engineering",
-            "status": 1,
-            "head_id": 1,
-        },
-  ],
+  
   "users": [
     {
       "id": 1,
