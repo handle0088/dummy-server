@@ -1,37 +1,37 @@
 {
   "divisions": [
         {
-            "division_code": "SE",
+            "code": "SE",
             "name": "Software Engineering",
             "status": 1,
             "head_id": 1
         },
         {
-            "division_code": "FCE",
+            "code": "FCE",
             "name": "Computer Engineering",
             "status": 1,
             "head_id": 2
         },
         {
-            "division_code": "IT",
+            "code": "IT",
             "name": "Information Technology",
             "status": 1,
             "head_id": 3
         },
         {
-            "division_code": "NC",
+            "code": "NC",
             "name": "Computer Networks and Communications",
             "status": 1,
             "head_id": 4
         },
         {
-            "division_code": "CS",
+            "code": "CS",
             "name": "Computer Science and Artificial Intelligence",
             "status": 1,
             "head_id": 5
         },
         {
-            "division_code": "MT",
+            "code": "MT",
             "name": "Mathmatica",
             "status": 0,
             "head_id": 6
