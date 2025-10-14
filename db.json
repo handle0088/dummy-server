@@ -15,7 +15,7 @@
         {
             "code": "IT",
             "name": "Information Technology",
-            "status": 0,
+            "status": 1,
             "head_id": 3
         },
         {
@@ -33,7 +33,7 @@
         {
             "code": "MT",
             "name": "Mathmatica",
-            "status": 1,
+            "status": 0,
             "head_id": 6
         }
   ],
